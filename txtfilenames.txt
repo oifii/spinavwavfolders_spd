@@ -1,0 +1,9 @@
+wavfolder_augustfoerster.txt
+wavfolder_band-drumkit-blingblingkit.txt
+wavfolder_band-drumkit-chocolatecitykit.txt
+wavfolder_band-drumkit-crystalkit.txt
+wavfolder_band-drumkit-funkkit.txt
+wavfolder_band-drumkit-jazzkit.txt
+wavfolder_band-drumkit-platinumpluskit.txt
+wavfolder_band-drumkit-popkit.txt
+wavfolder_band-drumkit-rockkit.txt
